@@ -106,28 +106,8 @@ function Login() {
           InputProps={{
             sx: {
               color: "white",
-              background: "rgba(255,255,255,0.08)",
+              background: "rgba(255,255,255,0.05)",
               borderRadius: "12px",
-
-              "& input::placeholder": {
-                color: "white",
-                opacity: 1,
-              },
-            },
-          }}
-          sx={{
-            "& .MuiOutlinedInput-root": {
-              "& fieldset": {
-                borderColor: "rgba(255,255,255,0.3)",
-              },
-
-              "&:hover fieldset": {
-                borderColor: "white",
-              },
-
-              "&.Mui-focused fieldset": {
-                borderColor: "#818cf8",
-              },
             },
           }}
         />
@@ -153,28 +133,8 @@ function Login() {
           InputProps={{
             sx: {
               color: "white",
-              background: "rgba(255,255,255,0.08)",
+              background: "rgba(255,255,255,0.05)",
               borderRadius: "12px",
-
-              "& input::placeholder": {
-                color: "white",
-                opacity: 1,
-              },
-            },
-          }}
-          sx={{
-            "& .MuiOutlinedInput-root": {
-              "& fieldset": {
-                borderColor: "rgba(255,255,255,0.3)",
-              },
-
-              "&:hover fieldset": {
-                borderColor: "white",
-              },
-
-              "&.Mui-focused fieldset": {
-                borderColor: "#818cf8",
-              },
             },
           }}
         />
